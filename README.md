@@ -1,7 +1,7 @@
 **VisualSearch-JS**
 ===================
 
-Using **VisualSearch-JS SDK** fashion websites can add visual search feature seamlessly into their website
+Using **VisualSearch-JS ** SDK fashion websites can add visual search feature seamlessly into their website
 
 **What is Visual search in fashion:**
 

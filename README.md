@@ -31,8 +31,15 @@ Please contact streamoid.support@streamoid.com to get your LOADER-URL, CLIENT TO
 
 The below screenshots depicts user flow for Visual search feature
 1) Visual search button
+![](screenshots/visual_search_1.png)
 
 2) Uploading an image
+![](screenshots/visual_search_2.png)
+
+![](screenshots/visual_search_3.png)
 
 3) Results screen
+![](screenshots/visual_search_4.png)
+
+![](screenshots/visual_search_5.png)
 

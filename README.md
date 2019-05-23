@@ -12,15 +12,19 @@ Any fashion apparel/accessory that inspires an end-user, for example, that perfe
 1) Adding script in **head** tag
 
 ```
-(function(i,s,o,g,r,t,k,a,m){i['PiqitObject']=r;i['PiqitGa']=t;i['PiqitToken']=k;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script', LOADER-URL,'PQT','GA-TRACKER','CLIENT TOKEN');
-```
+(function(i,s,o,g,r,t,k,a,m){
+         i['PiqitObject']=r;i['PiqitGa']=t;i['PiqitToken'] = k;i[r]=i[r]||function() {
+         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+         })(window, document, 'script', 'LOADER-URL', 'PQT', 'GA TRACKER-ID', 'CLIENT TOKEN');
+```     
 
 Add the below line of code(div) in your html source code wherever you want to see the visual search button. A search button will be automatically added in your website.
 
 ```
-<div class="streamoid_sdk streamoid-visualSearch-button" data-service="visualSearch" data-token="CLIENT TOKEN" data-function="initialize"></div>
-```
-
+ <div class="streamoid_sdk streamoid-visualSearch-button" data-token="CLIENT TOKEN" data-service="visualSearch" data-function="initialize"></div>
+ ```
+ 
 Please contact streamoid.support@streamoid.com to get your LOADER-URL, CLIENT TOKEN, GA TRACKER-ID
 
 **User Flow**

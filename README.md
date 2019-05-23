@@ -30,7 +30,7 @@ Please contact streamoid.support@streamoid.com to get your LOADER-URL, CLIENT TO
 **User Flow**
 
 The below screenshots depicts user flow for Visual search feature
-1) visual search button
+1) Visual search button
 
 2) Uploading an image
 
